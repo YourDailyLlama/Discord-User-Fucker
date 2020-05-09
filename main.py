@@ -8,16 +8,7 @@ ErrorMsg = "Invalid token, or you're ratelimited from the endpoint"
 __version__ = "1.0.0"
 
 def main():
-    print(f"███████████████████")
-    print(f"███████████████████")
-    print(f"███████████████████")
-    print(f"██               ██")
-    print(f"██    Nullsec    ██")
-    print(f"██               ██")
-    print(f"███████████████████")
-    print(f"███████████████████")
-    print(f"███████████████████")
-    print("")
+    print(f"Discord User Fucker")
     print(f"Version "+__version__)
     print("")
     print("")
