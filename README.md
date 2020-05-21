@@ -9,5 +9,5 @@ python main.py
 ```
 
 
-# Important
-This tool has been created for only testing. Any harm or damage is not the developer's problems.
+## Important
+This tool has been created only for testing!!
